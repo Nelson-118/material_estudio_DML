@@ -1,3 +1,4 @@
+create database Trazabilidad_SGVA;
 USE Trazabilidad_SGVA;
 
 create table trazabilidad(
